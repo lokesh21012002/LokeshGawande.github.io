@@ -4,7 +4,7 @@
 // {
 //   alert("Succesfully created");
 // }
-			var typed_strings =['','Login-Heres'];
+			var typed_strings =['','Login-Here'];
       // $(".text-slider-items").text();
 
     var typed = new Typed(".text-slider", {
